@@ -1,0 +1,12 @@
+/bin/
+/dist/
+*.out
+.env
+.env.*
+*.key
+*.pem
+/deploy/compose.rendered.yaml
+/approved-policy.json
+/evidence.json
+/headers.json
+.DS_Store

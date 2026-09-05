@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">CheapGPT Confidential Gateway</title>
+  <desc id="desc">A small Go gateway. Encrypted requests enter a verified TEE and leave for an approved provider.</desc>
+  <rect width="1200" height="340" rx="20" fill="#142c2b"/>
+  <path d="M0 278H1200M748 0V340" stroke="#29423e"/>
+  <text x="48" y="54" fill="#a2cbb6" font-family="monospace" font-size="13" letter-spacing="3">CHEAPGPT / CONFIDENTIAL COMPUTING</text>
+  <text x="45" y="127" fill="#f4f1e8" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="51">Your prompt.</text>
+  <text x="45" y="186" fill="#f4f1e8" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="51">A verifiable boundary.</text>
+  <text x="48" y="238" fill="#b6c5bd" font-family="Arial,Helvetica,sans-serif" font-size="18">A small Go gateway for confidential inference.</text>
+  <text x="48" y="314" fill="#a2cbb6" font-family="monospace" font-size="13" letter-spacing="1">GO · HPKE · INTEL TDX · DSTACK</text>
+  <rect x="819" y="64" width="309" height="177" rx="16" fill="#1d3935" stroke="#91c4a9" stroke-dasharray="5 6"/>
+  <path d="M957 118v-13a17 17 0 0 1 34 0v13" stroke="#b6dfc2" stroke-width="4" fill="none"/>
+  <rect x="948" y="115" width="52" height="40" rx="8" fill="#b6dfc2"/>
+  <circle cx="974" cy="133" r="4" fill="#142c2b"/>
+  <text x="974" y="190" fill="#f4f1e8" font-family="monospace" font-size="17" text-anchor="middle">VERIFIED TEE</text>
+  <text x="974" y="216" fill="#a2cbb6" font-family="monospace" font-size="12" text-anchor="middle">decrypt · forward · encrypt</text>
+  <path d="M770 151h39m-8-6 8 6-8 6M1138 151h39m-8-6 8 6-8 6" stroke="#b6dfc2" stroke-width="2" fill="none"/>
+  <text x="793" y="314" fill="#b6c5bd" font-family="monospace" font-size="13">READ THE CODE. VERIFY THE BUILD.</text>
+</svg>
