@@ -12,8 +12,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/tiktoken-go/tokenizer v0.8.1 h1:4obDoB6/dhdBt9xMweX4nww5cjdOq/nYF4ecwPq2+mg=
-github.com/tiktoken-go/tokenizer v0.8.1/go.mod h1:eLA0t6nGvn9mDc7gt90qt7pMat+gE9ViqwQ6l9B+tA4=
+github.com/tiktoken-go/tokenizer v0.10.0 h1:xcMbdR1D/rTF2/yEj1GQg3/jl5D9n5aQ546mr32di/w=
+github.com/tiktoken-go/tokenizer v0.10.0/go.mod h1:eLA0t6nGvn9mDc7gt90qt7pMat+gE9ViqwQ6l9B+tA4=
 go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=
 go.uber.org/multierr v1.11.0/go.mod h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y=
 golang.org/x/crypto v0.56.0 h1:GUh5Ii4J5jtcseSMiRqr1jXCNHoxjeV9Fmekc2oLy6Y=

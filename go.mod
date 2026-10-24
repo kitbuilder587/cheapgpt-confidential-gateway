@@ -4,7 +4,7 @@ go 1.26.8
 
 require (
 	github.com/google/go-tdx-guest v0.3.2-0.20260818190952-1b56e1b967d4
-	github.com/tiktoken-go/tokenizer v0.8.1
+	github.com/tiktoken-go/tokenizer v0.10.0
 )
 
 require (
